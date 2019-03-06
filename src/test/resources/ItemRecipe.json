@@ -1,0 +1,18 @@
+{
+	"table":{
+		"out":{
+			"table":1
+		},
+		"in":{
+			"wood":4
+		}
+	},
+	"stick":{
+		"out":{
+			"stick":1
+		},
+		"in":{
+			"wood":2
+		}
+	}
+}

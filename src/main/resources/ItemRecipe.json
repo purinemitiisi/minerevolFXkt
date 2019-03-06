@@ -1,0 +1,10 @@
+[
+	{
+		"outItem":{"name":"table", "num":1},
+		"inItemList":[{"name":"wood","num":4}]
+	},
+	{
+		"outItem":{"name":"stick", "num":1},
+		"inItemList":[{"name":"wood", "num":2}]
+	}
+]

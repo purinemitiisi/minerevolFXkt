@@ -1,0 +1,6 @@
+{
+	"wood": {"id":1, "name":"木"},
+	"stick": {"id":2, "name":"棒"},
+	"table": {"id":3, "name":"机"},
+	"stone": {"id":4, "name":"石"}
+}

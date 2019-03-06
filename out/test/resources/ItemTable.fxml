@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="application.ItemTableController">
+   <children>
+      <TableView fx:id="table" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <columns>
+            <TableColumn fx:id="idColumn" minWidth="40.0" prefWidth="44.0" text="ID" />
+            <TableColumn fx:id="nameColumn" minWidth="40.0" prefWidth="122.0" text="name" />
+            <TableColumn fx:id="numColumn" minWidth="40.0" prefWidth="111.0" text="num" />
+            <TableColumn fx:id="progressColumn" minWidth="40.0" prefWidth="79.0" text="progress" />
+         </columns>
+      </TableView>
+   </children>
+</AnchorPane>
